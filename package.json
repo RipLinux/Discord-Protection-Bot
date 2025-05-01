@@ -1,5 +1,5 @@
 {
-  "name": "protection-by-amine",
+  "name": "discord-protection-bot",
   "version": "1.0.0",
   "description": "a protection bot",
   "main": "index.js",
