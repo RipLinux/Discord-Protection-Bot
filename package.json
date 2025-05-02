@@ -11,7 +11,7 @@
     "discord-bot",
     "amine"
   ],
-  "author": "Amine",
+  "author": "Anas",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.0",
